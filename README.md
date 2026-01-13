@@ -1,11 +1,11 @@
-# Welcome to My GitHub Profile! 🐮
+# Welcome to My GitHub Profile! 
 
 ## About Me
 
-👩‍💻 **Name:** ごっと (gotsteven)  
-🎓 **Education:** Currently a 3nd-year university student of INIAD  
-💡 **Interests:** Web Development, AI and Logic  
-🔭 **Learning:** React, Next.js, TypeScript
+ **Name:** ごっと (gotsteven)  
+ **Education:** Currently a 3nd-year university student of INIAD  
+ **Interests:** AI and Logic  
+ **Learning:** React, Next.js, TypeScript
 
 ## Tech Stack
 
@@ -26,15 +26,4 @@
 - **[ResBattleArena](https://github.com/gotsteven/resbattle-arena)** - A real-time, one-on-one debate game featuring AI-powered judgment and feedback.
 - **[DiggraphAnime](https://github.com/mst-mkt/diggraph-anime)** - Discover new anime by exploring a dynamic recommendation graph with detailed info, reviews, and trailers at your fingertips.
 
-## Get in Touch
-
-- **Email:** gotsteve0812@gmail.com
-- **X:** [@gotsteven1](https://x.com/gotsteven1)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gotsteven&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gotsteven&layout=compact&theme=radical)
-
-## Thanks for Visiting! 🤩
+## Thanks for Visiting! 
