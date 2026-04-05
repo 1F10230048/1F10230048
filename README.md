@@ -3,7 +3,7 @@
 ## About Me
 
  **Name:** ごっと (gotsteven)  
- **Education:** Currently a 3nd-year university student of INIAD  
+ **Education:** Currently a 4th-year university student of INIAD  
  **Interests:** AI and Logic  
  **Learning:** React, Next.js, TypeScript
 
